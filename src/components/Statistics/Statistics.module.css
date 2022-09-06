@@ -1,0 +1,14 @@
+.statistics {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 25px;
+    color: #8a8993;
+    background-color: #fff;
+    width: 400px;
+    margin: auto;
+    padding:10px 10px 10px 10px;
+    border-radius: 20px;
+    box-shadow: 1rem 1rem 2rem rgb(213, 213, 213), -1rem -1rem 2rem #dad8d8;
+}

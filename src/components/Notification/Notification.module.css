@@ -1,0 +1,6 @@
+.message {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    color: #8a8993;
+}

@@ -1,0 +1,14 @@
+ .title {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 20px;
+  font-size: large;color: #8a8993;
+ }
+ 
+.buttonsContainer, .statistics {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+}
